@@ -1,0 +1,16 @@
+{
+  "name": "atelier_auto_comp",
+  "version": "1.0.0",
+  "description": "atelier_auto_comp =================",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
